@@ -1,16 +1,18 @@
-# React + Vite
+# 🏘️ Prototype Community App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive Prototype Showcase of a Residential Community Management System (Smart Komplek / RT-RW App).
 
-Currently, two official plugins are available:
+Prototipe aplikasi manajemen kas, iuran warga, dan informasi lingkungan RT/RW berbasis React SPA.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack & Language
+- **Language**: JavaScript (ES6+), HTML5, CSS3
+- **Framework & Build**: React, Vite, Tailwind CSS
+- **State & Data**: Mock Firebase Service, Role-Based Views (Admin & Warga)
 
-## React Compiler
+## 🚀 Key Features
+- **Kas & Payment Tracking**: Transparansi laporan kas dan iuran bulanan warga.
+- **Role-based Dashboard**: Tampilan khusus Pengurus (Admin) dan Warga.
+- **Notification & Event Feed**: Pengumuman kegiatan lingkungan & jadwal ronda.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Created by [@ab2rahman](https://github.com/ab2rahman)*
